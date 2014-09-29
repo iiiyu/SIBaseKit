@@ -11,7 +11,6 @@ Pod::Spec.new do |s|
   s.name             = "SIBaseKit"
   s.version          = "0.1.0"
   s.summary          = "SIBaseKit is basic classes"
-  s.description      = "SIBaseKit"
   s.homepage         = "https://github.com/iiiyu/SIBaseKit.git"
   s.license          = 'MIT'
   s.author           = { "Xiao ChenYu" => "apple.iiiyu@gmail.com" }
